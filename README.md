@@ -1,2 +1,2 @@
-# Qedege-Repo
-classroom training notes
+# Qedege-Practice
+practice samples
